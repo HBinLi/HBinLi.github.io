@@ -27,6 +27,8 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 # 📝 Publications 
 
+<sup>*</sup> Equal contribution <sup>†</sup> Corresponding author
+
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
@@ -135,7 +137,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 
 [<em>**Vicinagearth'24**</em>] [A survey on deep clustering: from the prior perspective](https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf) \\
-Yiding Lu, **Haobin Li**, Yunfan Li, Yijie Lin, Xi Peng
+Yiding Lu<sup>*</sup>, **Haobin Li**<sup>*</sup>, Yunfan Li, Yijie Lin, Xi Peng
 
 <a href="https://zhuanlan.zhihu.com/p/12059278751"><strong>中文简介</strong></a >
 \|
