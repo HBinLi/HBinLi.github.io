@@ -32,7 +32,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">arxiv 2025</div>
+<div class="badge">arxiv</div>
 <img src='images/rest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,7 +51,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">ICLR 2026</div>
+<div class="badge">ICLR</div>
 <img src='images/rule.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,7 +71,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">TPAMI 2026</div>
+<div class="badge">IEEE TPAMI</div>
 <img src='images/camera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,7 +90,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">ICLR 2025</div>
+<div class="badge">ICLR Spotlight</div>
 <img src='images/tcr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -111,7 +111,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">IJCAI 2023</div>
+<div class="badge">IJCAI</div>
 <img src='images/proimp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
