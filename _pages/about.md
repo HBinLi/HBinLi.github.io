@@ -30,11 +30,12 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
+<div class="badge">arxiv 2025</div>
 <img src='images/rest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**arxiv'25 **</em>] [Toward Robust and Harmonious Adaptation for Cross-modal Retrieval](https://arxiv.org/pdf/2511.14416) \\
+[<em>**arxiv'25**</em>] [Toward Robust and Harmonious Adaptation for Cross-modal Retrieval](https://arxiv.org/pdf/2511.14416) \\
 **Haobin Li**, Mouxing Yang, Xi Peng
 
 \|
@@ -48,6 +49,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
+<div class="badge">ICLR 2026</div>
 <img src='images/rule.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,6 +69,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
+<div class="badge">TPAMI 2026</div>
 <img src='images/camera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,6 +89,7 @@ Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
+<div class="badge">ICLR 2025</div>
 <img src='images/tcr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,6 +98,7 @@ Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/
 **Haobin Li**, Peng Hu, Qianjun Zhang, Xi Peng, Xiting Liu, Mouxing Yang
 
 <a href="https://github.com/XLearning-SCU/2025-ICLR-TCR"><strong>Code</strong></a >
+<a href="https://mp.weixin.qq.com/s/w3mp7j6_7ZIfcmNFAUJDRA"><strong>中文简介</strong></a >
 \|
 
 
@@ -105,11 +110,12 @@ Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
+<div class="badge">IJCAI 2023</div>
 <img src='images/proimp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**IJCAI’25 **</em>] [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/0435.pdff) \\
+[<em>**IJCAI'25**</em>] [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/0435.pdf) \\
 **Haobin Li**, Yunfan Li, Mouxing Yang, Peng Hu, Dezhong Peng, Xi Peng
 
 <a href="https://github.com/XLearning-SCU/2023-IJCAI-ProImp"><strong>Code</strong></a >
@@ -121,6 +127,29 @@ Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/
 </div>
 </div>
 
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+<div class="badge">Vicinageearth 2024</div>
+<img src='images/proimp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[<em>**Vicinageearth'24**</em>] [A survey on deep clustering: from the prior perspective](https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf) \\
+Yiding Lu, **Haobin Li**, Yunfan Li, Yijie Lin, Xi Peng
+
+<a href="https://zhuanlan.zhihu.com/p/12059278751"><strong>中文简介</strong></a >
+\|
+
+
+- Leveraging sample-prototype relationship to impute missing modality.
+
+</div>
+</div>
+
+# 📖 Service
+- Journal Reviewer: IEEE TPAMI, IEEE TIP, and more.
+- Conference Reviewer: ICLR, NeurIPS, ICML, CVPR, AAAI, and more.
 
 <!-- <div class='paper-box'>
 <div class='paper-box-image'><div> -->
