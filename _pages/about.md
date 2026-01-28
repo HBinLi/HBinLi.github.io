@@ -115,7 +115,7 @@ Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**IJCAI'25**</em>] [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/0435.pdf) \\
+[<em>**IJCAI'23**</em>] [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/0435.pdf) \\
 **Haobin Li**, Yunfan Li, Mouxing Yang, Peng Hu, Dezhong Peng, Xi Peng
 
 <a href="https://github.com/XLearning-SCU/2023-IJCAI-ProImp"><strong>Code</strong></a >
@@ -130,7 +130,7 @@ Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">Vicinageearth 2024</div>
+<div class="badge">Vicinage Earth 2024</div>
 <img src='images/proimp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
