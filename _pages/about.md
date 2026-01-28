@@ -74,8 +74,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**TPAMI’26**</em>] [Community-aware Multi-view Representation
-Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/11/Community-aware-Multi-view-Representation-Learning-with-Incomplete-Information.pdf) \\
+[<em>**TPAMI'26**</em>] [Community-aware Multi-view Representation Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/11/Community-aware-Multi-view-Representation-Learning-with-Incomplete-Information.pdf) \\
 **Haobin Li**, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng
 
 <a href="https://github.com/XLearning-SCU/2025-TPAMI-CAMERA"><strong>Code</strong></a >
@@ -131,18 +130,18 @@ Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/
 <div class='paper-box'>
 <div class='paper-box-image'><div>
 <div class="badge">Vicinage Earth 2024</div>
-<img src='images/proimp.png' alt="sym" width="100%"></div></div>
+<img src='images/clustering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**Vicinageearth'24**</em>] [A survey on deep clustering: from the prior perspective](https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf) \\
+[<em>**Vicinagearth'24**</em>] [A survey on deep clustering: from the prior perspective](https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf) \\
 Yiding Lu, **Haobin Li**, Yunfan Li, Yijie Lin, Xi Peng
 
 <a href="https://zhuanlan.zhihu.com/p/12059278751"><strong>中文简介</strong></a >
 \|
 
 
-- Leveraging sample-prototype relationship to impute missing modality.
+- A survey of deep clustering from a prior perspective.
 
 </div>
 </div>
