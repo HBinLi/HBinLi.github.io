@@ -17,32 +17,148 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, My name is Haobin Li. I'm a Ph.D. student from College of Computer Science, Sichuan Univerisity, fortunately advised by Prof. [Xi Peng](https://xlearning-lab.com/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests mainly focus on Robust Multi-modal Learning and MLLM Reasoning, especially the challenges encountered in open scenarios, such as missing modalities, noisy correspondence, distribution shift.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: One papers was accepted by International Conference on Learning Representations (ICLR 2026).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+<img src='images/rest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[<em>**arxiv'25 **</em>] [Toward Robust and Harmonious Adaptation for Cross-modal Retrieval](https://arxiv.org/pdf/2511.14416) \\
+**Haobin Li**, Mouxing Yang, Xi Peng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+\|
+
+
+- Extend query shift and tackle more challenging diverse shift scenarios.
+- Establish more benchmarks across image-text, video–audio and composed image retrieval.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+<img src='images/rule.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+
+[<em>**ICLR’26**</em>] [Learning with Dual-level Noisy Correspondence for Multi-modal Entity Alignment](https://openreview.net/pdf?id=mytIKuRsSE) \\
+**Haobin Li**, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng
+
+<a href="https://github.com/XLearning-SCU/RULE"><strong>Code</strong></a >
+\|
+
+
+- First reveal and study noisy and underlying correspondence in multi-modal knowledge graph.
+- Pioneering exploration of test-time robustness.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+<img src='images/camera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[<em>**TPAMI’26**</em>] [Community-aware Multi-view Representation
+Learning with Incomplete Information](https://pengxi.me/wp-content/uploads/2025/11/Community-aware-Multi-view-Representation-Learning-with-Incomplete-Information.pdf) \\
+**Haobin Li**, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng
+
+<a href="https://github.com/XLearning-SCU/2025-TPAMI-CAMERA"><strong>Code</strong></a >
+\|
+
+
+- Leveraging sociological concepts to address missing modalities and correspondences.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+<img src='images/tcr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[<em>**ICLR’25 Spotlight**</em>] [Test-time Adaptation for Cross-modal Retrieval with Query Shift](https://pengxi.me/wp-content/uploads/2025/11/Community-aware-Multi-view-Representation-Learning-with-Incomplete-Information.pdf) \\
+**Haobin Li**, Peng Hu, Qianjun Zhang, Xi Peng, Xiting Liu, Mouxing Yang
+
+<a href="https://github.com/XLearning-SCU/2025-ICLR-TCR"><strong>Code</strong></a >
+\|
+
+
+- First study the query shift problem in cross-modal retrieval.
+- Reveal the underlying impacts of query shift on cross-modal retrieval
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+<img src='images/proimp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[<em>**IJCAI’25 **</em>] [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/0435.pdff) \\
+**Haobin Li**, Yunfan Li, Mouxing Yang, Peng Hu, Dezhong Peng, Xi Peng
+
+<a href="https://github.com/XLearning-SCU/2023-IJCAI-ProImp"><strong>Code</strong></a >
+\|
+
+
+- Leveraging sample-prototype relationship to impute missing modality.
+
+</div>
+</div>
+
+
+<!-- <div class='paper-box'>
+<div class='paper-box-image'><div> -->
+<!-- <div class="badge">ICLR 2024</div> -->
+<!-- < img src='assets/papers/llava-reid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+
+<!-- [<em>**ICML’25**</em>] [LLaVA-ReID: Selective Multi-image Questioner
+for Interactive Person Re-Identification](https://arxiv.org/pdf/2504.10174) \\
+Yiding Lu, Mouxing Yang, Dezhong Peng, Peng Hu, **Yijie Lin**<sup>†</sup>, Xi Peng<sup>†</sup> -->
+
+
+<!-- <a href="https://mp.weixin.qq.com/s/j3VRGEH6nztfz-wpB8Z5tA?scene=1&click_id=35"><strong>中文简介</strong></a >
+\|
+<a href="https://github.com/XLearning-SCU/LLaVA-ReID"><strong>Code</strong></a > -->
+<!-- \| -->
+<!-- <a href="https://github.com/XLearning-SCU/2024-ICLR-Norton"><strong>Code</strong></a > -->
+<!-- [![](https://img.shields.io/github/stars/XLearning-SCU/LLaVA-ReID?style=social&label=Stars)](https://github.com/XLearning-SCU/LLaVA-ReID)
+\|
+<a href="https://raw.githubusercontent.com/XLearning-SCU/LLaVA-ReID/main/img/poster-wo-wechat.png"><strong>Poster</strong></a > -->
+
+
+<!-- <a href="https://mp.weixin.qq.com/s/yGieWt0s9jPPRX6sG03KDw"><strong>中文简介</strong></a > -->
+<!-- \| -->
+<!-- <a href="https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON"><strong>Code</strong></a > -->
+<!-- [![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON) -->
+<!-- <strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:Y0pCki6q_DkC'></span></strong> -->
+
+
+<!-- - Introduce the first dialogue-based person re-identification task.
+
+</div>
+</div> -->
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -55,4 +171,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
