@@ -38,7 +38,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 
 [<em>**Arxiv’26**</em>] [Reliable Thinking with Images](https://arxiv.org/abs/2602.12916) \\
-**Haobin Li**, Yutong Yang, Yijie Lin, Dai Xiang, Mouxing Yang, Xi Peng
+**Haobin Li**, Yutong Yang, Yijie Lin, Xiang Dai, Mouxing Yang, Xi Peng
 
 <a href="https://github.com/XLearning-SCU/Reliable_TWI"><strong>Code</strong></a >
 \|
@@ -53,7 +53,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 <div class='paper-box'>
 <div class='paper-box-image'><div>
 <div class="badge">arxiv</div>
-<img src='images/rest.png' alt="sym" width="100%"></div></div>
+<img src='images/rtwi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
