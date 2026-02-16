@@ -32,6 +32,26 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
+<div class="badge">Arxiv</div>
+<img src='images/rule.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[<em>**Arxiv’26**</em>] [Reliable Thinking with Images](https://arxiv.org/abs/2602.12916) \\
+**Haobin Li**, Yutong Yang, Yijie Lin, Dai Xiang, Mouxing Yang, Xi Peng
+
+<a href="https://github.com/XLearning-SCU/Reliable_TWI"><strong>Code</strong></a >
+\|
+
+
+- First reveal and study noisy mining and reasoning in thinking with images.
+- Pioneering exploration of reliable multimodal reasoning.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
 <div class="badge">arxiv</div>
 <img src='images/rest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,12 +71,12 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">ICLR</div>
+<div class="badge">ICLR Oral</div>
 <img src='images/rule.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**ICLR’26**</em>] [Learning with Dual-level Noisy Correspondence for Multi-modal Entity Alignment](https://openreview.net/pdf?id=mytIKuRsSE) \\
+[<em>**ICLR’26 Oral**</em>] [Learning with Dual-level Noisy Correspondence for Multi-modal Entity Alignment](https://openreview.net/pdf?id=mytIKuRsSE) \\
 **Haobin Li**, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng
 
 <a href="https://github.com/XLearning-SCU/RULE"><strong>Code</strong></a >
