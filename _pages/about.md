@@ -33,7 +33,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 <div class='paper-box'>
 <div class='paper-box-image'><div>
 <div class="badge">Arxiv</div>
-<img src='images/rule.png' alt="sym" width="100%"></div></div>
+<img src='images/rtwi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -53,7 +53,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 <div class='paper-box'>
 <div class='paper-box-image'><div>
 <div class="badge">arxiv</div>
-<img src='images/rtwi.png' alt="sym" width="100%"></div></div>
+<img src='images/rule.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
