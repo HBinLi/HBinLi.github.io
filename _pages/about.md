@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, My name is Haobin Li. I'm a Ph.D. student from College of Computer Science, Sichuan Univerisity, fortunately advised by Prof. [Xi Peng](https://xlearning-lab.com/).
 
-My research interests mainly focus on Robust Multi-modal Learning and MLLM Reasoning, especially the challenges encountered in open scenarios, such as missing modalities, noisy correspondence, distribution shift.
+My research interests mainly focus on achieving robustness against open-world challenges in Multi-modal Learning and Agentic LLM.
 
 
 # 🔥 News
