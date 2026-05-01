@@ -173,6 +173,9 @@ Yiding Lu<sup>*</sup>, **Haobin Li**<sup>*</sup>, Yunfan Li, Yijie Lin, Xi Peng
 - Journal Reviewer: IEEE TPAMI, IEEE TIP, and more.
 - Conference Reviewer: ICLR, NeurIPS, ICML, CVPR, AAAI, and more.
 
+# 💻 Internships
+  - 2025.01 - Now, Ant Group, Ling Team, Chengdu, China.
+
 <!-- <div class='paper-box'>
 <div class='paper-box-image'><div> -->
 <!-- <div class="badge">ICLR 2024</div> -->
