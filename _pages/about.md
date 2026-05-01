@@ -23,6 +23,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 
 # 🔥 News
+- *2026.05*: One papers was accepted by International Conference on Machine Learning (ICML 2026).
 - *2026.01*: One papers was accepted by International Conference on Learning Representations (ICLR 2026).
 
 # 📝 Publications 
@@ -37,7 +38,7 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**Arxiv’26**</em>] [Reliable Thinking with Images](https://arxiv.org/abs/2602.12916) \\
+[<em>**ICML’26**</em>] [Reliable Thinking with Images](https://arxiv.org/abs/2602.12916) \\
 **Haobin Li**, Yutong Yang, Yijie Lin, Xiang Dai, Mouxing Yang, Xi Peng
 
 <a href="https://github.com/XLearning-SCU/Reliable_TWI"><strong>Code</strong></a >
@@ -52,12 +53,12 @@ My research interests mainly focus on Robust Multi-modal Learning and MLLM Reaso
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-<div class="badge">arxiv</div>
+<div class="badge">ICML</div>
 <img src='images/rest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**arxiv'25**</em>] [Toward Robust and Harmonious Adaptation for Cross-modal Retrieval](https://arxiv.org/pdf/2511.14416) \\
+[<em>**Arxiv'25**</em>] [Toward Robust and Harmonious Adaptation for Cross-modal Retrieval](https://arxiv.org/pdf/2511.14416) \\
 **Haobin Li**, Mouxing Yang, Xi Peng
 
 \|
