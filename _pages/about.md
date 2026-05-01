@@ -174,7 +174,7 @@ Yiding Lu<sup>*</sup>, **Haobin Li**<sup>*</sup>, Yunfan Li, Yijie Lin, Xi Peng
 - Conference Reviewer: ICLR, NeurIPS, ICML, CVPR, AAAI, and more.
 
 # 💻 Internships
-  - 2025.01 - Now, Ant Group, Ling Team, Chengdu, China.
+  - 2026.01 - Now, Ant Group, Ling Team: Post Training.
 
 <!-- <div class='paper-box'>
 <div class='paper-box-image'><div> -->
